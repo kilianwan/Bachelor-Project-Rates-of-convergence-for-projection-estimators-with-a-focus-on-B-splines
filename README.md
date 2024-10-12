@@ -1,0 +1,1 @@
+# Bachelor-Project-Rates-of-convergence-for-projection-estimators-with-a-focus-on-B-splines
