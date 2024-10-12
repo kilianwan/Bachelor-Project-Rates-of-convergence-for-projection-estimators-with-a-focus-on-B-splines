@@ -1,7 +1,9 @@
 # Bachelor Project : Rates of convergence for projection estimators with a focus on B-splines
 
 Author: *Kilian Wan*
+
 Collaborator: *Almond Stöcker*
+
 Advisor: *Victor M. Panaretos*
 
 This Bachelor project investigates B-splines, a type of piecewise polynomial function widely used
